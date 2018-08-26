@@ -6,7 +6,7 @@ Companion-mindy is a web-based AI that can converse with you! This application i
 
 ### Prerequisites
 
-[Node.js](https://nodejs.org/en/) need to be installed to run the application.
+[Node.js](https://nodejs.org/en/) needs to be installed to run the application.
 
 ### Usage
 1. Run npm to install dependencies into a local node_modules folder.
